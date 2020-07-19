@@ -178,8 +178,8 @@ accessibility.gamepad.trigger.left=左扳机	#
 accessibility.gamepad.bumper.right=右杆	#
 accessibility.gamepad.bumper.left=左杆	#
 
-accessibility.keyboard.leftBracket=左方框键			### left square bracket means '[' on the english keyboard
-accessibility.keyboard.rightBracket=右方框键		### right square bracket means ']' on the english keyboard
+accessibility.keyboard.leftBracket=左方括号			### left square bracket means '[' on the english keyboard
+accessibility.keyboard.rightBracket=右方括号		### right square bracket means ']' on the english keyboard
 
 
 ## End of audible phrases section
@@ -4610,12 +4610,11 @@ item.prismarine_crystals.name=海晶砂粒	#
 item.prismarine_shard.name=海晶碎片	#
 item.pumpkin_pie.name=南瓜派	#
 item.cooked_rabbit.name=熟兔肉	#
-item.rabbit_foot.name=兔子脚	#
-item.rabbit_hide.name=兔子皮	#
+item.rabbit_foot.name=兔子脚	#F
 item.rabbit.name=生兔肉	#
 item.rabbit_stew.name=兔肉煲	#
 item.record_11.desc=Donald Trump - Sweet But Psycho	#
-item.record_13.desc=花泽香菜 - 恋爱サーキュレーション(恋爱循环)	#
+item.record_13.desc=花泽香菜 - 恋爱サーキュレーション(恋爱循环)	#f
 item.record_blocks.desc=Captainsparklez - Revenge	#
 item.record_cat.desc=C418 - cat	#
 item.record_chirp.desc=Nick Nitro - Vs. Frisk[Battle In Chaos]	#
@@ -4749,7 +4748,7 @@ itemGroup.name.chalkboard=黑板	#
 itemGroup.name.anvil=铁砧	#
 itemGroup.name.chest=箱子	#
 itemGroup.name.shulkerBox=潜影盒	#
-itemGroup.name.record=唱片	#
+itemGroup.name.record=§a原 §c声 §3大 §6碟	#
 itemGroup.name.skull=生物头颅	#
 itemGroup.name.boat=船	#
 itemGroup.name.rail=铁轨	#
@@ -5608,8 +5607,8 @@ options.xboxliveBroadcast.friendsOfFriends=好友的好友	#
 options.xboxliveBroadcastSettings=微软账户设置	#
 options.xboxlivevisible=广播到Xbox Live玩家	#
 options.xboxLiveAccountSettings=微软账户设置	#
-options.xboxLiveSignedIn=已登录微软账户	#
-options.xboxLiveSignedOut=已注销微软账户	#
+options.xboxLiveSignedIn=已登录Microsoft账户	#
+options.xboxLiveSignedOut=已注销Microsoft账户	#
 options.xboxLive.privacyControl=管理哪些人可以向你发送邀请	#
 options.skinCustomisation=自定义皮肤…	#
 options.skinCustomisation.title=自定义皮肤	#
