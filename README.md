@@ -1,2 +1,2 @@
 # mcbe-zzmusicpack
-A music pack for Minecraft Bedrock Edition
+A resource pack for Minecraft Bedrock Edition
