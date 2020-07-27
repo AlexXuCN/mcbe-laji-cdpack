@@ -3573,8 +3573,8 @@ inventory.binSlot=摧毁物品	#
 
 item.air.name=空气	#
 item.apple.name=苹果	#
-item.golden_apple.name=金苹果	#
-item.appleEnchanted.name=附魔金苹果	#
+item.golden_apple.name=金色传说	#
+item.appleEnchanted.name=不知道是金色还是紫色的奇怪东西	#
 item.armor_stand.name=盔甲架	#
 item.arrow.name=箭	#
 item.tipped_arrow.name=药箭	#
