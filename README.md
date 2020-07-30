@@ -1,4 +1,4 @@
-# mcbe-zzmusicpack
+# mcbe-laji-cdpack
 A resource pack for Minecraft Bedrock Edition
 
 ## How to use
